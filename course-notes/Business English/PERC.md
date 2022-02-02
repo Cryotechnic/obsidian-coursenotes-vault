@@ -1,5 +1,5 @@
-## English 
-### Perc
+## __PERC__
+### What is Perc
 - Empathy:
 	- Cognitive (Think)
 	- Emotional (Feel)
