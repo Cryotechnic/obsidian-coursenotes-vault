@@ -1,0 +1,17 @@
+## Proximics & Shot Types
+- Distance between camera and object
+- Significance
+	- Make choices that impact the scene in a deliberate way (camera)
+	- The viewer identifies with the lens
+	- Shape the scene
+- ### Extreme Long Shot
+- Long Take: single, uncut take
+- Long Shot: Distance from the camera to the object
+- Full Shot: Character from top to bottom (head to toe)
+- Medium-Long Shot (American Shot) (MLS/AS): Frames character knees-up 
+- Medium Shot: Frames character waist-up
+- Close-up: Face of the character is filling the frame (for important, dramatic, moment)
+- POV Cutting: Character is not literally looking from the character's perspective
+- Literal POV
+- Cheated POV
+- Extreme Close-Up: Object/character revealed in an extreme close view

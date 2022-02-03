@@ -1,0 +1,37 @@
+# Mise-en-scene
+- Actor
+	- Costume
+	- Makeup
+	- Props
+
+## Frame
+- Size & Shape
+- Aspect Ratio
+	- 1.85 : 1
+		- height: 1
+		- width: 1.85
+	- "Academy Standard"
+	- Space Odyssey
+		- 2.35 : 1
+- Element placement in the frame is important
+	- Content isn't everything
+- Symmetry gives a sense of balance & order
+- #### Rule of Thirds
+	- Grid that acts like a guide for aligning elements of the frame
+	- Composition if built into units of 3
+		- Foreground
+		- Background
+		- etc. 
+	- The eyes should be on the top
+		- You can make the eyes appear in the middle or at the bottom, as a creative decision
+- ### Compositional Stress
+	- Imbalance that can communicate many things
+		- Weak, different, tension, premonition that something is wrong
+	- ### Eye Room / Looking Room
+	- ### Negative Space
+		- Expectation that something will come to "restore the balance"
+	- ### Deep Space Composition 
+	- ### Deep Focus Composition
+	- ### Shallow Focus Composition
+		- Only 1 of the planes is in focus
+	- 

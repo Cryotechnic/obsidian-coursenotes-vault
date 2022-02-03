@@ -1,0 +1,8 @@
+- Level & height of the camera in relation to the subject
+- Angle: Eye Level
+- Angle: Low Angle
+- Angle: Extreme Low Angle
+- Angle: High Angle
+- Angle: Extreme High Angle (Bird's Eye View)
+- Angle: Dutch / Oblique Angle
+- 
