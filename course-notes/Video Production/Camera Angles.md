@@ -4,5 +4,4 @@
 - Angle: Extreme Low Angle
 - Angle: High Angle
 - Angle: Extreme High Angle (Bird's Eye View)
-- Angle: Dutch / Oblique Angle
-- 
+- Angle: Dutch / Oblique Angle 
