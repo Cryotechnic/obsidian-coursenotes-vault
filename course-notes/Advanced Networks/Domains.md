@@ -1,0 +1,20 @@
+# Domains
+- Broadcast Domain: 
+	- Number of nodes that can listen to a broadcasted message
+	- Can be found by looking at the number of ports on a switch (i.e. 8 port switch has a domain of 8)
+	- Can be found by looking at the number of ports on a switch - 1 (i.e. 8 port switch has a domain of 7, because they do not consider the sender as a valid port)
+	- Creation of VLANs can segregate collision domains
+- Collision Domain: 
+	- Happens if 2 devices send packets at the same time on the same network
+		- Both senders need to resend the packets as both are destroyed
+	- CSMA/CD:
+		- Stands for Carrier Sense Multiple Access / Collision Detection
+		- Network protocol for carrier transmission
+			- Operating in the medium access control layer
+			- Interrupts sender broadcast until shared channel is free
+			- Collision is detected by broadcast-sensing from other stations
+			- Upon collision, transmission is stopped & jam signal is by the sender  to other stations, sender waits a random time interval before retransmission attempt
+	- CSMA/CA:
+		- Stands for Carrier Sense Multiple Access / Collision Avoidance
+		- Network protocol for carrier transmission
+		- Nodes only attempt to send data if the shared channel is in 'idle' state

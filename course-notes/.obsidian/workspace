@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "900c8c52a5c31941",
+        "id": "5b3c9780ca563316",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Game Prog/Unity Scripting API.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Rule of thi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Prog/Unity Scripting API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Prog/Unity Scripting API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "900c8c52a5c31941",
+  "active": "5b3c9780ca563316",
   "lastOpenFiles": [
-    "Game Prog/Unity Scripting API.md",
-    "Game Prog/Game Prog Courses.md",
-    "Game Prog/Course 1.md",
-    "Video Production/Course 1.md",
-    "Video Production/Camera Angles.md",
-    "Business English/Business English Courses.md",
-    "Business English/Course 1.md",
+    "Advanced Networks/Course 1.md",
+    "Advanced Networks/Advanced Networks Courses.md",
+    "Untitled 3.md",
     "Video Production/Video Production Courses.md",
-    "Video Production/Focal Length.md",
-    "Video Production/The Moving Camera.md"
+    "Advanced Networks/Domains.md",
+    "Advanced Networks/Cable Types.md",
+    "Advanced Networks/Structured Cabling.md",
+    "Advanced Networks/Switches & Bridges.md",
+    "Business English Courses.md",
+    "Video Production/Video Production Courses.md"
   ]
 }
