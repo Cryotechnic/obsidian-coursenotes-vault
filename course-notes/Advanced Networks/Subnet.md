@@ -1,0 +1,20 @@
+## Subnet
+- Indicates the range of the operating network
+- Structure of subnet mask is similar to IP address
+- Default subnet masks:
+	- Class A: 255.0.0.0 /8 (11111111.00000000.00000000.00000000)
+		- Network: 2^8 (256)
+		- Host: 2^24 (16777216)
+	- Class B: 255.255.0.0  /16 (11111111.11111111.00000000.00000000)
+		- Network: 2^16 (65536)
+		- Host: 2^16 (65536)
+	- Class C: 255.255.255.0 /24 (11111111.11111111.11111111.00000000)
+		- Network: 2^24 (16777216)
+		- Host: 2^8 (256)
+- Octets that are "1" are considered to be *Network* address
+- Octets that are "0" are considered to be *Host* address
+- /8, /16, /24 (subnet mask) delimits how many octets have to be identical to be considered as part of the same network
+	- /8 means that the first octet needs to match
+	- /16 means that the first 2 octets need to match
+	- /24 means that the first 3 octets need to match
+	- If this condition is not true, then they do belong on the same network

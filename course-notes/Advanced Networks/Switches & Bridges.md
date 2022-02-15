@@ -23,8 +23,3 @@
 	- *Source MAC Address:* The source address of the device that wants to send data
 	- *Destination MAC Address:* The destination address of the device that receives the data 
 If the Destination MAC Address is not known, then the sender will put FF:FF:FF:FF as the destination address. That's called the *Broadcast Address*.
-
-Some switches operate in Unicast, and some in multicast:
-	- Unicast: One-to-One (one source to one destination)
-	- Multicast: One-to-Many (one source to multiple destinations)
-	There is no designation for Many-to-Many applications 

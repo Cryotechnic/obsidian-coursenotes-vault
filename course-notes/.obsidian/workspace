@@ -7,8 +7,12 @@
         "id": "5b3c9780ca563316",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Advanced Networks/Advanced Networks Courses.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Advanced Networks/Advanced Networks Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Advanced Networks/Advanced Networks Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,15 +101,15 @@
   },
   "active": "5b3c9780ca563316",
   "lastOpenFiles": [
-    "Advanced Networks/Course 1.md",
     "Advanced Networks/Advanced Networks Courses.md",
-    "Untitled 3.md",
-    "Video Production/Video Production Courses.md",
-    "Advanced Networks/Domains.md",
-    "Advanced Networks/Cable Types.md",
-    "Advanced Networks/Structured Cabling.md",
+    "Advanced Networks/Course 1.md",
+    "Advanced Networks/Course 2.md",
+    "Advanced Networks/IP Addresses.md",
+    "Advanced Networks/Layer 3.md",
+    "Advanced Networks/Subnet.md",
+    "Advanced Networks/Multicast.md",
     "Advanced Networks/Switches & Bridges.md",
-    "Business English Courses.md",
-    "Video Production/Video Production Courses.md"
+    "Advanced Networks/Structured Cabling.md",
+    "Video Production/Course 2.md"
   ]
 }
