@@ -12,6 +12,7 @@
 		- Network: 2^24 (16777216)
 		- Host: 2^8 (256)
 - Octets that are "1" are considered to be *Network* address
+	- __Look at the above representation for examples!__
 - Octets that are "0" are considered to be *Host* address
 - /8, /16, /24 (subnet mask) delimits how many octets have to be identical to be considered as part of the same network
 	- /8 means that the first octet needs to match
