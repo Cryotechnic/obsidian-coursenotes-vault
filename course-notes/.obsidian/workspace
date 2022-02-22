@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Advanced Networks/Subnet.md",
+            "file": "Default Gateway.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Networks/Subnet.md",
+                "file": "Default Gateway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,38 +86,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Networks/Subnet.md",
+                "file": "Default Gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "cafdc39c8446988d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "5b3c9780ca563316",
   "lastOpenFiles": [
+    "Default Gateway.md",
     "Advanced Networks/Subnet.md",
-    "Advanced Networks/Course 2.md",
-    "Advanced Networks/IP Addresses.md",
     "Advanced Networks/Layer 3.md",
-    "Advanced Networks/Course 1.md",
-    "Advanced Networks/Switches & Bridges.md",
-    "Advanced Networks/Multicast.md",
-    "Advanced Networks/Structured Cabling.md",
+    "Advanced Networks/Course 3.md",
+    "Advanced Networks/Course 2.md",
+    "Subnet Mask.md",
+    "Advanced Networks/Domains.md",
+    "Advanced Networks/Cable Types.md",
     "Advanced Networks/Advanced Networks Courses.md",
-    "Video Production/Course 2.md"
+    "Advanced Networks/Course 1.md"
   ]
 }
