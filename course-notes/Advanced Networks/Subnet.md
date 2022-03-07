@@ -43,3 +43,21 @@
 	- LAN 2: 192.168.2.X /24:
 		- Network Address: *192.168.2.0 /24*
 		- Broadcast Address: *192.168.2.255 /24*
+## Subnetting
+### Determining custom Subnet Mask
+- To determine a "custom" subnet mask (/25, /28, etc.), divide the total amount of hosts by the amount of networks that we want to create, then find the scientific notation of 2 for it.
+- Finally, subtract the power notation from the resulting number to obtain the subnet mask
+- Then, define the IP range for the network
+- E.g. Create 8 subnetworks
+	- 256/8 = 32
+	- 2^x = 32, x-> 5
+		- 32 - 5 = 27
+Therefore
+- 192.168.0.0 -> 192.168.0.31 /27
+- 192.168.0.32 -> 192.168.0.63 /27
+- 192.168.0.64 -> 192.168.0.95 /27
+- 192.168.0.96 -> 192.168.0.127 /27
+- 192.168.0.128 -> 192.168.0.159 /27
+- 192.168.0.160 -> 192.168.0.191 /27
+- 192.168.0.192 -> 192.168.0.223 /27
+- 192.168.0.224 -> 192.168.0.255 /27
