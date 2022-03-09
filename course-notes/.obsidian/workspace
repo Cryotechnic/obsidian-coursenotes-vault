@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5b3c9780ca563316",
+        "id": "a0427217773e054d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Layer 4.md",
+            "file": "Advanced Networks/Advanced Networks Exam Study/Section 1/Network Locations.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Layer 4.md",
+                "file": "Advanced Networks/Advanced Networks Exam Study/Section 1/Network Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Layer 4.md",
+                "file": "Advanced Networks/Advanced Networks Exam Study/Section 1/Network Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b3c9780ca563316",
+  "active": "a0427217773e054d",
   "lastOpenFiles": [
-    "Layer 4.md",
-    "Routing Protocol.md",
-    "Course 5.md",
-    "Advanced Networks/Subnet.md",
-    "Advanced Networks/Course 4.md",
-    "Advanced Networks/Course 3.md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 1/Network Locations.md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 1/Components.md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 1/Network Characteristics.md",
+    "Advanced Networks/Advanced Networks Exam Study/Untitled.md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 1.md",
+    "Advanced Networks/Layer 4.md",
+    "Advanced Networks/Course 5.md",
+    "Advanced Networks/Advanced Networks Courses.md",
     "Advanced Networks/Course 2.md",
-    "Video Production/Camera Angles.md",
-    "Video Production/Course 1.md",
-    "Advanced Networks/Default Gateway.md"
+    "Advanced Networks/Routing Protocol.md"
   ]
 }
