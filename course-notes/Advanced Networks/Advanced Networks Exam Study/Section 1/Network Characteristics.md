@@ -27,3 +27,4 @@
 - Availability:
 	- Measures the amount of time that the network is available to the user
 	- Measured in **minutes in a given year** (% is made based on minutes)
+#advnetmidterm

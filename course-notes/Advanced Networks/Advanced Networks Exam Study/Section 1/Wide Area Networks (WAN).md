@@ -1,0 +1,52 @@
+# Wide Area Networks (*WAN*)
+- Used to connect [[Local Area Networks (LAN)]] together over **a great distance**
+- Typically involves paying recurring monthly fees to a service provider
+- Connection Types:
+	- Circuit-switched
+		- Temporary connection across a phone circuit
+			- Analog Dialup
+			- ISDN
+			- 3G / 4G (LTE) => used for dial-on-demand or backup connections
+	- Cell-switched
+		- Same features as **Dedicated Connections**
+			- Asynchronous Transfer Mode (*ATM*)
+		- Switches fixed-length packets (*cells*)
+		- Advantage:
+			- Single device can connect to multiple devices on the **same interface**
+		- Disadvantages:
+			- Unavailable in some locations
+			- Difficult setup 
+			- Difficult maintenance / troubleshooting process
+			- Expensive equipment
+	- Packet-switched
+		- **Similar to Cell-Switched**
+			- Frame Relay
+			- X.25
+		- Switches *variable-length* packets
+			- This makes it better suited for data services (they can provide QoS that cell-switched has)
+	- Dedicated connection
+		- Permanent connection between 2 sites
+		- Bandwidth is dedicated to the company's use
+- Service Types:
+	- Asynchronous Transfer Mode (*ATM*)
+	- Digital Subscriber Line (*DSL*)
+		- Advantages:
+			- Speeds up to few Mbps (25-100)
+			- Costs less than other options
+		- Disadvantages:
+			- Coverage limited to ~18 000 feet
+			- Not available in all areas
+	- Cable
+		- Coaxial copper & fiber
+		- Advantages:
+			- Higher data rates than Digital Subscriber Line (*DSL*)
+			- Full-time connection (Like *DSL*)
+		- Disadvantages:
+			- Shared service (functions like Ethernet in [[logical bus topology]])
+			- More susceptible to security risks (MITM attacks & sniffing)
+	- Frame Relay
+	- Integrated Service Digital Network (*ISDN*)
+	- X.25
+
+#### The difference between a [[Local Area Networks (LAN)]] & a [[Wide Area Networks (WAN)]] is that LANs provide *high-speed* bandwidth connections to interconnect components in a geographically close location vs WANs, which provide *lower-speed* bandwidth connections to interconnect multiple locations / sites. 
+#advnetmidterm 

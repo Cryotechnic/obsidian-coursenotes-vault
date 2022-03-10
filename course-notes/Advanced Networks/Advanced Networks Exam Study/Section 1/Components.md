@@ -1,4 +1,4 @@
-# Components
+# Components 
 - Many, if not *most* applications nowadays are ***network-aware***
 - *Protocols* are used to implement applications
 	- Open-standard: Other vendors can create applications and they can interact with each other
@@ -34,4 +34,5 @@
 		- Modems
 		- Network Terminator Type 1 (ISDN)
 		- Channel Service Units (CSU)
-		- Data Service Units (DSU)
+		- Data Service Units (DSU) 
+#advnetmidterm
