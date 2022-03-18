@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Advanced Networks/Advanced Networks Exam Study/Section 2/Encapsulation & De-encapsulation.md",
+            "file": "Advanced Networks/Advanced Networks Courses.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Networks/Advanced Networks Exam Study/Section 2/Encapsulation & De-encapsulation.md",
+                "file": "Advanced Networks/Advanced Networks Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Networks/Advanced Networks Exam Study/Section 2/Encapsulation & De-encapsulation.md",
+                "file": "Advanced Networks/Advanced Networks Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,6 +139,8 @@
   },
   "active": "5945535dc5895439",
   "lastOpenFiles": [
+    "Advanced Networks/Advanced Networks Courses.md",
+    "Advanced Networks/Course 1.md",
     "Advanced Networks/Advanced Networks Exam Study/Section 2/Encapsulation & De-encapsulation.md",
     "Advanced Networks/Advanced Networks Exam Study/Section 2/Physical Layer (Layer 1).md",
     "Advanced Networks/Advanced Networks Exam Study/Section 2/Network Layer (Layer 3).md",
@@ -146,8 +148,6 @@
     "Advanced Networks/Course 3.md",
     "Data Link (Layer 2).md",
     "Advanced Networks/Advanced Networks Exam Study/Section 2/Transport Layer (Layer 4).md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 2/Session Layer (Layer 5).md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 2/Layers.md",
-    "Advanced Networks/Switches & Bridges.md"
+    "Advanced Networks/Advanced Networks Exam Study/Section 2/Session Layer (Layer 5).md"
   ]
 }
