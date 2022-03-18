@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "03e71685a78ef10b",
+        "id": "5945535dc5895439",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Advanced Networks/Advanced Networks Exam Study/Section 1/Bus Topology.md",
+            "file": "Advanced Networks/Advanced Networks Exam Study/Section 2/Encapsulation & De-encapsulation.md",
             "mode": "source",
             "source": false
           }
@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tags",
-                "matchingCase": false,
+                "query": "[[Data Link (Layer 2)]]",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Networks/Advanced Networks Exam Study/Section 1/Bus Topology.md",
+                "file": "Advanced Networks/Advanced Networks Exam Study/Section 2/Encapsulation & De-encapsulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Networks/Advanced Networks Exam Study/Section 1/Bus Topology.md",
+                "file": "Advanced Networks/Advanced Networks Exam Study/Section 2/Encapsulation & De-encapsulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03e71685a78ef10b",
+  "active": "5945535dc5895439",
   "lastOpenFiles": [
-    "Advanced Networks/Advanced Networks Exam Study/Section 1/Bus Topology.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 1/Star Topology.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 1/Single Ring Topology.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 1/Point-to-Point Topology.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 1/Network Locations.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 1/Network Characteristics.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 1/Local Area Networks (LAN).md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 1/Extended Star Topology.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 1/Dual Ring Topology.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 1/Components.md"
+    "Advanced Networks/Advanced Networks Exam Study/Section 2/Encapsulation & De-encapsulation.md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 2/Physical Layer (Layer 1).md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 2/Network Layer (Layer 3).md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 2/Data Link Layer (Layer 2).md",
+    "Advanced Networks/Course 3.md",
+    "Data Link (Layer 2).md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 2/Transport Layer (Layer 4).md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 2/Session Layer (Layer 5).md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 2/Layers.md",
+    "Advanced Networks/Switches & Bridges.md"
   ]
 }
