@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Advanced Networks/Advanced Networks Courses.md",
+            "file": "Advanced Networks/Routing Table.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[Data Link (Layer 2)]]",
+                "query": "routing table",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Networks/Advanced Networks Courses.md",
+                "file": "Advanced Networks/Routing Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Networks/Advanced Networks Courses.md",
+                "file": "Advanced Networks/Routing Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,8 +111,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9c8da6735f7fc1f2",
@@ -139,15 +138,15 @@
   },
   "active": "5945535dc5895439",
   "lastOpenFiles": [
-    "Advanced Networks/Advanced Networks Courses.md",
-    "Advanced Networks/Course 1.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 2/Encapsulation & De-encapsulation.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 2/Physical Layer (Layer 1).md",
+    "Advanced Networks/Routing Table.md",
+    "Advanced Networks/Post-Midterm Course 1.md",
+    "Advanced Networks/Post-Midterm Course 2.md",
     "Advanced Networks/Advanced Networks Exam Study/Section 2/Network Layer (Layer 3).md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 2/Data Link Layer (Layer 2).md",
-    "Advanced Networks/Course 3.md",
-    "Data Link (Layer 2).md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 2/Transport Layer (Layer 4).md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 2/Session Layer (Layer 5).md"
+    "Advanced Networks/Advanced Networks Exam Study/Section 3/Untitled.md",
+    "Advanced Networks/Routing Protocol.md",
+    "Advanced Networks/Domains.md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 2/Physical Layer (Layer 1).md",
+    "Advanced Networks/Advanced Networks Courses.md",
+    "Advanced Networks/Course 1.md"
   ]
 }

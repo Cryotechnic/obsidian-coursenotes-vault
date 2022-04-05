@@ -31,7 +31,7 @@
 		- Used to rank each link to determine best path
 	- How that information was learned
 	- Information age
-	- Best rank gets appended to routing table
+	- Best rank gets appended to [[Routing Table]]
 - TCP / IP Routing Information Protocol (*RIP*) uses hop count
 - When router receives inbound packet -> examines destination layer 3 address in packet header
 	- Router determines logical address and compares it to the one in its routing table
