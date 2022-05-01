@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5945535dc5895439",
+        "id": "c80764dcf80f5376",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Advanced Networks/Routing Table.md",
+            "file": "Advanced Networks/Advanced Networks Final Exam Study/Routing Protocols.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "routing table",
+                "query": "ARP",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Networks/Routing Table.md",
+                "file": "Advanced Networks/Advanced Networks Final Exam Study/Routing Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Networks/Routing Table.md",
+                "file": "Advanced Networks/Advanced Networks Final Exam Study/Routing Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5945535dc5895439",
+  "active": "c80764dcf80f5376",
   "lastOpenFiles": [
+    "Advanced Networks/Advanced Networks Final Exam Study/Routing Protocols.md",
+    "Advanced Networks/Advanced Networks Final Exam Study/Routing Type.md",
+    "Advanced Networks/Advanced Networks Final Exam Study/VLAN & Trunks.md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 1/Attachments/Pasted image 20220430213145.png",
+    "Advanced Networks/Advanced Networks Final Exam Study/Cisco IOS.md",
+    "Advanced Networks/Advanced Networks Final Exam Study/Sending & Receiving TCP Packets.md",
+    "Video Production/Lighting.md",
     "Advanced Networks/Routing Table.md",
     "Advanced Networks/Post-Midterm Course 1.md",
-    "Advanced Networks/Post-Midterm Course 2.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 2/Network Layer (Layer 3).md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 3/Untitled.md",
-    "Advanced Networks/Routing Protocol.md",
-    "Advanced Networks/Domains.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 2/Physical Layer (Layer 1).md",
-    "Advanced Networks/Advanced Networks Courses.md",
-    "Advanced Networks/Course 1.md"
+    "Advanced Networks/Post-Midterm Course 2.md"
   ]
 }

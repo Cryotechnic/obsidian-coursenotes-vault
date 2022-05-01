@@ -1,0 +1,47 @@
+# Cisco IOS Commands
+- Priviliged EXEC mode (allows you to use, create and modify interfaces): *enable*
+	- Can also use *en*
+	- To exit, type *exit* or *logout*
+	- Similarily to User EXEC, Priviliged EXEC can also set password
+		- *enable password {password}* OR *enable secret {password}*
+	- To go to User EXEC mode, type *disable*
+		- *password {password}*: sets password for User EXEC
+			- can set it on any interface or line
+- Show (displays information about specified parameter)
+	- show history
+	- show interface (show int)
+	- show version
+	- show clock
+- Setting terminal history length:
+	- terminal history size {#}
+- Clock set (set clock hh:mm:ss MONTH YEAR)
+- Hostname {NAME}
+	- Sets hostname
+	- *no hostname {NAME}* remove hostname
+- *shutdown*: turns off interface
+	- *no shutdown*: turns on interface
+- *banner motd {delimiting char} {banner} {delimiting char}*
+- *mac-address-table static {MAC ADDRESS} vlan {VLAN_NUM} interface {type} module/port#*: Manually adds mac address to table
+- *switchport {port}*
+	- *mode access*
+		- *switchport port-security maximum {value}*
+		- *switchport port-security violation {protect|restrict|shutdown}*
+	- *mode trunk*
+## Configuration modes
+- config-if: interface configuration
+- config-subif: sub-interface configuration
+- config-line: line (remote access) configuration
+	- *line {line_type} {line #}*
+		- con: console (physical port)
+		- aux: auxiliary (backup physical port)
+		- vty: virtual type terminal (logical port)
+		- tty: teletype terminal (physical port connecting to modem or for accessing other device ports)
+	- *exec-timeout {minutes} {seconds}*
+		- line console 0
+			- exec-timeout 0 0
+	- *no exec*
+		- disables currently selected line
+	- *transport {input|output} {all|telnet|ssh|}*
+		- restricts which methods of access (protocols) are allowed
+- config-controller: controller configuration
+- config-router: IP routing protocol configuration
