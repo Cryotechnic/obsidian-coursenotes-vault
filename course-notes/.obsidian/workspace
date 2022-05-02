@@ -93,14 +93,6 @@
             }
           },
           {
-            "id": "dba65c2cc60eb668",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "15cc461d2702a742",
             "type": "leaf",
             "state": {
@@ -110,8 +102,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "43320aacfe4de28e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "9c8da6735f7fc1f2",
@@ -133,20 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c80764dcf80f5376",
   "lastOpenFiles": [
     "Advanced Networks/Advanced Networks Final Exam Study/Routing Protocols.md",
-    "Advanced Networks/Advanced Networks Final Exam Study/Routing Type.md",
-    "Advanced Networks/Advanced Networks Final Exam Study/VLAN & Trunks.md",
-    "Advanced Networks/Advanced Networks Exam Study/Section 1/Attachments/Pasted image 20220430213145.png",
+    "Advanced Networks/Default Gateway.md",
     "Advanced Networks/Advanced Networks Final Exam Study/Cisco IOS.md",
+    "Advanced Networks/Advanced Networks Final Exam Study/VLAN & Trunks.md",
+    "Advanced Networks/Advanced Networks Final Exam Study/RAID.md",
+    "Advanced Networks/Advanced Networks Final Exam Study/Routing Type.md",
+    "Advanced Networks/Advanced Networks Exam Study/Section 1/Attachments/Pasted image 20220430213145.png",
     "Advanced Networks/Advanced Networks Final Exam Study/Sending & Receiving TCP Packets.md",
     "Video Production/Lighting.md",
-    "Advanced Networks/Routing Table.md",
-    "Advanced Networks/Post-Midterm Course 1.md",
-    "Advanced Networks/Post-Midterm Course 2.md"
+    "Advanced Networks/Routing Table.md"
   ]
 }

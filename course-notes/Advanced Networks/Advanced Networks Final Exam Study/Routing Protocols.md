@@ -3,9 +3,9 @@
 | Metric                      | Routing Protocol | Description                                                             |
 | --------------------------- | ---------------- | ----------------------------------------------------------------------- |
 | Bandwidth                   | EIGRP            | Capacity of links in Kbps (T1 = 1554)                                   |
-| Cost                        | OSPF             | Arbitrary values on each node allowing admins to alter network paths    |
+| Cost                        | OSPF             | Arbitrary values on each node allowing admins to alter network paths (LS)   |
 | Delay                       | EIGRP            | Time it takes to reach destination                                      |
-| Hop Count                   | RIP              | How many [[Network Layer (Layer 3)]] hops it takes to reach destination |
+| Hop Count                   | RIP              | How many [[Network Layer (Layer 3)]] hops it takes to reach destination (DV) |
 | Load                        | EIGRP            | Path with least utilization                                             |
 | MTU (Max Transmission Unit) | EIGRP            | Path that supports largest frame size                                   |
 | Reliability                 | EIGRP            | Path with least errors & downtime                                       | 
