@@ -51,4 +51,33 @@ Aspects of InfoSec:
 
 ### Cybersecurity Framework
 - Set of standards and best practices to help organizations manage cybersecurity risk
-	- 
+
+### NIST Cybersecurity Framework
+- Identify
+	- Security Policies
+	- Security Models
+- Protect
+	- Implement Security Measures
+	- Defense-in-depth
+- Detect
+	- Incorporate device-specific security
+- Respond
+	- IoT security needs to be able to respond quickly
+- Recover
+	- Log policy
+	- Post-event analysis 
+
+### Cybersecurity Solutions
+- Physical: IP Cameras, electronic doors, alarm systems
+- Users: Complex password, access cards, user & group policy
+- Data: Backup strategy
+- Network: Firewall, access control list, VPN
+- Application: Antivirus
+- Operating System: Updated OS
+
+## Operational Technology (OT)
+- Use of hardware & software to monitor & control physical processes, devices & infrastructure
+	- Protect people, assets, information
+	- Monitor and/or control physical devices, processes, events
+	- Initiate state changes to enterprise OT systems
+#### *Before you start anything, learn how to finish it. Before connecting everything together, learn how to protect them*
