@@ -28,6 +28,7 @@
 	| 1     | 0      | 1   | 1   |
 	| 1     | 1      | 1   | 0   |
 
+
 XOR
 - If # of 1s is even, XOR = 0
 - If # of 1s is odd, XOR = 1
