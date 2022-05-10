@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IoT/Final Exam Study/Buttons & Signal Modulation.md",
+            "file": "IoT/Final Exam Study/WiFi & Bluetooth.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IoT/Final Exam Study/Buttons & Signal Modulation.md",
+                "file": "IoT/Final Exam Study/WiFi & Bluetooth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IoT/Final Exam Study/Buttons & Signal Modulation.md",
+                "file": "IoT/Final Exam Study/WiFi & Bluetooth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +112,7 @@
   },
   "active": "e42d79a8115fab65",
   "lastOpenFiles": [
+    "IoT/Final Exam Study/WiFi & Bluetooth.md",
     "IoT/Final Exam Study/Buttons & Signal Modulation.md",
     "IoT/Final Exam Study/Security.md",
     "IoT/Final Exam Study/Temperature Sensor & Motors.md",
@@ -120,7 +121,6 @@
     "IoT/Final Exam Study/RFID.md",
     "Advanced Networks/Advanced Networks Final Exam Study/Cisco IOS.md",
     "Advanced Networks/Advanced Networks Final Exam Study/Routing Type.md",
-    "Advanced Networks/Advanced Networks Final Exam Study/Sending & Receiving TCP Packets.md",
-    "Advanced Networks/Advanced Networks Final Exam Study/VLAN & Trunks.md"
+    "Advanced Networks/Advanced Networks Final Exam Study/Sending & Receiving TCP Packets.md"
   ]
 }
