@@ -17,9 +17,9 @@
 		- Also known as WiFi1 -> WiFi6
 
 ## 802.11 Association Process
-- 802.11 probing
-- 802.11 authentication
-- 802.11 association
+- 802.11 Probing
+- 802.11 Authentication
+- 802.11 Association
 
 ## Probe Request
 - Wi-Fi enabled device sends proboe request to discover 802.11 networks in proximity

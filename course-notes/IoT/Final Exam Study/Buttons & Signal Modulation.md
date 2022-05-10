@@ -47,7 +47,7 @@ $Modulation + Demodulation = Modem$
 ## Pulse Width Modulation (PWM)
 - Process to control average power supplied by electrical signal
 - Method that digital outputs are used to control analog devices
-	- Speed of motoors
+	- Speed of motors
 	- Smart lighting systems
 	- Temperature of heating elements
 	- Etc.

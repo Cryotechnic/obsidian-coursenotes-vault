@@ -1,11 +1,11 @@
 # Communication Protocols
 #### Comparison
-| Aspect            | CAOP                       | MQTT                      | AMQP              |
+| Aspect            | CoAP                       | MQTT                      | AMQP              |
 | ----------------- | -------------------------- | ------------------------- | ----------------- |
 | Messaging Pattern | Request/Response           | Publish/Subscribe         | Both              |
 | QoS               | Confirmable                | Guarantee Message Arrival | High Availability |
 | Overhead          | Ultra-Lightweight          | Lightweight               | Semi-lightweight  |
-| Security          | DTLS, RSA & AES, ECC & AES | TLS/SSl                   | TLS/SSL           |
+| Security          | DTLS, RSA & AES, ECC & AES | TLS/SSL                   | TLS/SSL           |
 | Power Consumption | Very Low                   | Low                       | Low               |
 | Transport         | UDP                        | TCP                       | TCP                  |
 ## Message Exchange Patterns
